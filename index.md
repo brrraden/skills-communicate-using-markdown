@@ -9,3 +9,7 @@ And here's some sample code:
 $ mkdir practice-practice-practice
 Created directory /practice-practice-practice in brrraden/skills-communicate-using-markdown/
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
